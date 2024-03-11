@@ -1,0 +1,12 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"BELL342\""
+        },
+        "wifi-password": {
+            "help": "WiFi Password",
+            "value": "\"E5CE346793F4\""
+        }
+    }
+}
