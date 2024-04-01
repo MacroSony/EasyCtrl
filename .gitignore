@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+DISCO_L475VG_IOT01A_wifi
+VL53L0X

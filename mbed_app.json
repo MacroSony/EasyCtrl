@@ -1,0 +1,12 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"PUT YOUR WIFI NAME HERE\""
+        },
+        "wifi-password": {
+            "help": "WiFi Password",
+            "value": "\"PUT YOUR WIFI PASSWARD HERE\""
+        }
+    }
+}
